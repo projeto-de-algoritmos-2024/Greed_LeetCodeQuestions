@@ -33,6 +33,7 @@ Este projeto tem como objetivo desenvolver questões sobre o conteúdo ministrad
 | -- | -- | -- |
 | [1235. maximum-profit-in-job-scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)  |  ***Difícil*** | [maxprofit.py](codigos/maxProfit.py) |
 | [871. minimum-number-of-refueling-stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)  |  ***Difícil*** | [refuel.py](codigos/refuel.py) |
+| [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)  |  ***Médio*** | [minimum.py](codigos/minimum.py) |
 
 
 ## Screenshots
@@ -55,6 +56,13 @@ Este projeto tem como objetivo desenvolver questões sobre o conteúdo ministrad
     - ![imagem refuel submissao](assets/refuelSubmit.png)
 <br>
 
+### minimum.py
+- Rodando o arquivo python no terminal na pasta onde ele se encontra, após descomentar os testes no final do arquivo:
+    - ![imagem minimum terminal](assets/minimumTerminal.png)
+- Rodando o arquivo no ***Leet Code*** com seus testes passando:
+    - ![imagem minimum teste](assets/minimumTests.png)
+- Submissão aceita no ***Leet code***:
+    - ![imagem minimum submissao](assets/minimumSubmit.png)
 
 ## Instalação
 **Linguagem**: Python<br>
@@ -69,6 +77,7 @@ Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
     - Após ter a pasta do projeto, rode no terminal de sua máquina dentro da pasta ***Leet_Code_Questions***,  descomente a main que está comentada dos testes no final dos arquivos .py, e execute os seguintes comandos:
         - ```python3 maxProfit.py ```<br>
         - ```python3 refuel.py ```<br>
+        - ```python3 minimum.py ```<br>
 
     - Para testar no ***leet code***:
         - Entre nos ***links*** presentes na tabela de questões, copie o código da questão que quer testar, e clique em ***run*** ou ***submit*** para testar os códigos ***(lembre de deixar os a main comentada para testar no leet code)***.
